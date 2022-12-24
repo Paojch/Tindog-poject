@@ -1,1 +1,1 @@
-# Tindog-poject
+# Tindog-project
